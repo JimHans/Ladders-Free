@@ -1,3 +1,3 @@
-![image](https://raw.githubusercontent.com/JimHans/-zzeduhelper-/master/banner.jpg)
+![image](https://github.com/JimHans/psiphon3/blob/master/banner.jpg?raw=true)
 # psiphon3
-赛风3全版本
+### 赛风3全版本
