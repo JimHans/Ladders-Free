@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://github.com/JimHans/psiphon3/blob/master/banner.jpg?raw=true">
-  
   </p>
+  <p align="left">
 <img src="https://img.shields.io/badge/Version-143-red.svg?style=flat-square">
 <img src="https://img.shields.io/badge/language-中文-green.svg?style=flat-square">
+</p>
 
 # psiphon3 
 ### 赛风3全版本
