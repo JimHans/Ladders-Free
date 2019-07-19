@@ -7,6 +7,6 @@
 </p>
 
 # psiphon3 
-### 赛风3全版本
-#### 包含赛风 Android 与 Windows 客户端。
+### 不只是赛风3——梯子大全
+#### 包含：赛风 Android 与 Windows 客户端，Ghelper插件，Lantern，Betternet
 #### ·科学上网，跨越国界
