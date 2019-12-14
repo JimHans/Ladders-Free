@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JimHans/psiphon3/blob/master/banner.jpg?raw=true">
+  <img src="https://raw.githubusercontent.com/JimHans/Ladders-Free/master/ladders.jpg">
   </p>
   <p align="left">
 <img src="https://img.shields.io/badge/Version-143-red.svg?style=flat-square">
