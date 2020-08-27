@@ -1,0 +1,92 @@
+{
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true
+    }
+  ],
+  "logEnabled": false,
+  "loglevel": "warning",
+  "index": 0,
+  "vmess": [
+    {
+      "configVersion": 2,
+      "address": "qi6xqp16.ai3sda18.xyz",
+      "port": 443,
+      "id": "f9a81912-d2b6-4317-8fbf-4814b1d7dfb0",
+      "alterId": 444,
+      "security": "auto",
+      "network": "ws",
+      "remarks": "qi6xqp16.ai3sda18.xyz",
+      "headerType": "none",
+      "requestHost": "qi6xqp16.ai3sda18.xyz",
+      "path": "/334f8/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "configType": 1,
+      "testResult": "",
+      "subid": ""
+    },
+    {
+      "configVersion": 2,
+      "address": "qi6xqp33.ai3sda18.xyz",
+      "port": 443,
+      "id": "4729e7a9-b6fe-441b-b53b-81c73915a423",
+      "alterId": 444,
+      "security": "auto",
+      "network": "ws",
+      "remarks": "qi6xqp33.ai3sda18.xyz",
+      "headerType": "none",
+      "requestHost": "qi6xqp33.ai3sda18.xyz",
+      "path": "/e54cfbd/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "configType": 1,
+      "testResult": "",
+      "subid": ""
+    }
+  ],
+  "muxEnabled": true,
+  "domainStrategy": "IPIfNonMatch",
+  "routingMode": "0",
+  "useragent": [],
+  "userdirect": [],
+  "userblock": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "listenerType": 1,
+  "speedTestUrl": "http://speedtest-sgp1.digitalocean.com/10mb.test",
+  "speedPingTestUrl": "https://www.google.com/generate_204",
+  "urlGFWList": "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
+  "allowLANConn": false,
+  "enableStatistics": false,
+  "keepOlderDedupl": false,
+  "statisticsFreshRate": 2000,
+  "remoteDNS": null,
+  "defAllowInsecure": false,
+  "subItem": [],
+  "uiItem": {
+    "mainSize": "237, 39",
+    "mainLvColWidth": {
+      "def": 30,
+      "configType": 80,
+      "remarks": 100,
+      "address": 120,
+      "port": 50,
+      "security": 90,
+      "network": 70,
+      "subRemarks": 50,
+      "testResult": 70
+    }
+  },
+  "userPacRule": []
+}
