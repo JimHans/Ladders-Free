@@ -13,6 +13,7 @@
 - Updated new ladders
 - archived stopped apps
 - 新的包体来自apkmirror
+- 重新修改了目录结构
 
 ### 包含的免费梯子软件：
 #### 仍可用：
